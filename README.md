@@ -1,5 +1,5 @@
 # Welcome to my personal website!
- 
+
 ## About me
 I am an incoming Associate Professor of Instruction in the [Department of Statistics and Data Science (SDS)](https://stat.utexas.edu/) at the [University of Texas at Austin (UT-Austin)]([https://en.wikipedia.org/wiki/University_of_Texas_at_Austin](https://www.utexas.edu/)). Prior to joining the University of Texas, I was an Assistant Teaching Professor in the [Center for Transforming Data to Knowledge (D2K Lab)](https://d2k.rice.edu/) at [Rice University](https://www.rice.edu/).
 
